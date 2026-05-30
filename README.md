@@ -127,7 +127,7 @@ AVERAGE('Dirty_FoodDelivery_Analytics_900'[DeliveryTime])
 ### Power Query Custom Column
 
 ```Power Query
-Delivery Status =
+Delivery Status 
 = Table.AddColumn(
     #"Trimmed Text",
     "Delivery Status",
@@ -195,7 +195,11 @@ View the complete project here:
 
 ## 📸 Dashboard Preview
 
-![Food Delivery Dashboard](Final Dashboard.png)
+![Food Delivery Dashboard](https://github.com/sukrutha912/Food_Delivery_Analytics/blob/main/Final%20Dashboard.png)
+
+---
+
+
 ## 🔚 Conclusion
 
 The Food Delivery Analytics Dashboard provides a comprehensive view of restaurant performance, revenue trends, and delivery efficiency. By leveraging Power BI, Power Query, and DAX, the dashboard transforms raw data into meaningful business insights that support informed decision-making.

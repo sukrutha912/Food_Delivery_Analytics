@@ -189,7 +189,7 @@ Delivery Status =
 
 View the complete project here:
 
-[Food Delivery Analytics Dashboard](https://github.com/your-username/Food-Delivery-Analytics-Dashboard)
+[Food Delivery Analytics Dashboard](https://github.com/sukrutha912/Food_Delivery_Analytics.git)
 
 ---
 

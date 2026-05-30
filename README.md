@@ -138,4 +138,3 @@ This Food Delivery Analytics Dashboard provides a clear view of delivery operati
 Bindu Sukrutha G
 Data Analyst | Power BI Developer | AI & ML Student
 
-Order Count = COUNT(OrderID)
